@@ -22,7 +22,7 @@ namespace Arrays_øvelser_1
             }
 
             string[] spillere = { "Anders", "Else", "hans", "kaj", "inge", "kurt", "tove" };
-
+            Console.WriteLine("hej");
         }
     }
 }
